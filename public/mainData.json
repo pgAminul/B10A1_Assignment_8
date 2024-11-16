@@ -1,0 +1,243 @@
+[
+  {
+    "product_id": "101",
+    "product_title": "Smartphone X100",
+    "product_image": "https://i.ibb.co/DYhMY6n/Smartphones.png",
+    "category": "Smartphones",
+    "price": 699.99,
+    "description": "A high-performance smartphone with advanced features and a sleek design.",
+    "Specification": [
+      "6.5-inch display",
+      "128GB storage",
+      "Triple-lens camera",
+      "5G connectivity"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "102",
+    "product_title": "Laptop Pro 15",
+    "product_image": "https://i.ibb.co/2NKLKYD/laptop.png",
+    "category": "Laptops",
+    "price": 1299.99,
+    "description": "A powerful laptop with an impressive display and top-of-the-line performance.",
+    "Specification": [
+      "15.6-inch 4K display",
+      "512GB SSD",
+      "16GB RAM",
+      "Intel i7 processor"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+
+  {
+    "product_id": "103",
+    "product_title": "Headphones Z",
+    "product_image": "https://i.ibb.co/942d2rY/Audio1.png",
+    "category": "Audio",
+    "price": 199.99,
+    "description": "Premium headphones with active noise cancellation and high-quality sound.",
+    "Specification": [
+      "Over-ear design",
+      "Bluetooth 5.0",
+      "20-hour battery life",
+      "Built-in microphone"
+    ],
+    "availability": false,
+    "rating": 4.3
+  },
+  {
+    "product_id": "104",
+    "product_title": "Smartwatch S2",
+    "product_image": "https://i.ibb.co/wdLnD1V/Wearables.png",
+    "category": "Wearables",
+    "price": 249.99,
+    "description": "A stylish smartwatch with fitness tracking and notification features.",
+    "Specification": [
+      "1.4-inch AMOLED display",
+      "Heart rate monitor",
+      "GPS tracking",
+      "Water resistant"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "105",
+    "product_title": "Cosmatic Product",
+    "product_image": "https://i.ibb.co/ypFkLZY/Accessories1.png",
+    "category": "Accessories",
+    "price": 333.99,
+    "description": "Nice and Atractive Product.",
+    "Specification": [
+      "New Brand",
+      "Slim design",
+      "LED indicator",
+      "Universal Design"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": "106",
+    "product_title": "Tablet Pro 12",
+    "product_image": "https://i.ibb.co/48nqJgN/Tablets.png",
+    "category": "Tablets",
+    "price": 599.99,
+    "description": "A lightweight and powerful tablet perfect for work and play.",
+    "Specification": [
+      "12-inch Retina display",
+      "256GB storage",
+      "Stylus support",
+      "8MP rear camera"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "107",
+    "product_title": "Bluetooth Speaker Max",
+    "product_image": "https://i.ibb.co/fNQd6HH/Audio2.png",
+    "category": "Audio",
+    "price": 149.99,
+    "description": "A portable Bluetooth speaker with high-quality sound and long battery life.",
+    "Specification": [
+      "360-degree sound",
+      "24-hour battery life",
+      "Waterproof",
+      "Voice assistant support"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "108",
+    "product_title": "New Accessories Products",
+    "product_image": "https://i.ibb.co/cyWnxKp/Accessories2.png",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "A New Collections from outside Bangladesh.",
+    "Specification": [
+      "Adjustable DPI ",
+      "Ergonomic design",
+      "New Brand ",
+      "RGB lighting"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "109",
+    "product_title": "4K Action Camera",
+    "product_image": "https://i.ibb.co/mRcTpF7/Cameras.png",
+    "category": "Cameras",
+    "price": 299.99,
+    "description": "A compact action camera with 4K video recording and image stabilization.",
+    "Specification": [
+      "4K UHD video",
+      "Waterproof up to 30m",
+      "Wi-Fi connectivity",
+      "Image stabilization"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "110",
+    "product_title": "Awsome Accessories Collections",
+    "product_image": "https://i.ibb.co/Z8RkbHd/Accessories3.png",
+    "category": "Accessories",
+    "price": 55.99,
+    "description": "A awsome beautyfull porducts.",
+    "Specification": [
+      "New design",
+      "World Famous Product",
+      "Fast Delivery",
+      "Compact design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "111",
+    "product_title": "Smartphone X100",
+    "product_image": "https://i.ibb.co.com/bQdf9kG/download-2.jpg",
+    "category": "Smartphones",
+    "price": 69.99,
+    "description": "A high-performance smartphone with advanced features and a sleek design.",
+    "Specification": [
+      "6.5-inch display",
+      "128GB storage",
+      "Triple-lens camera",
+      "5G connectivity"
+    ],
+    "availability": "In stock",
+    "rating": 4.5
+  },
+  {
+    "product_id": "113",
+    "product_title": "Smartphone X100",
+    "product_image": "https://i.ibb.co.com/5k4hLC1/images-9.jpg",
+    "category": "Smartphones",
+    "price": 69.99,
+    "description": "A high-performance smartphone with advanced features and a sleek design.",
+    "Specification": [
+      "6.5-inch display",
+      "128GB storage",
+      "Triple-lens camera",
+      "5G connectivity"
+    ],
+    "availability": "In stock",
+    "rating": 4.5
+  },
+  {
+    "product_id": "114",
+    "product_title": "Smartphone A200",
+    "product_image": "https://i.ibb.co.com/bQdf9kG/download-3.jpg",
+    "category": "Smartphones",
+    "price": 499.99,
+    "description": "A premium flagship phone with cutting-edge technology, including a 108MP camera and ultra-fast charging.",
+    "Specification": [
+      "6.8-inch OLED display",
+      "256GB storage",
+      "108MP camera",
+      "Fast wireless charging"
+    ],
+    "availability": "Out of stock",
+    "rating": 4.8
+  },
+  {
+    "product_id": "115",
+    "product_title": "Smartphone Z500",
+    "product_image": "https://i.ibb.co.com/bQdf9kG/download-4.jpg",
+    "category": "Smartphones",
+    "price": 129.99,
+    "description": "A budget-friendly smartphone with a solid camera and reliable performance for everyday use.",
+    "Specification": [
+      "6.3-inch display",
+      "64GB storage",
+      "Dual-lens camera",
+      "4G LTE connectivity"
+    ],
+    "availability": "In stock",
+    "rating": 4.0
+  },
+  {
+    "product_id": "115",
+    "product_title": "Smartphone 500Z",
+    "product_image": "https://i.ibb.co/nLHwTG8/samsung-galaxy-z-fold6-5g-navy.jpg",
+    "category": "Smartphones",
+    "price": 129.99,
+    "description": "A budget-friendly smartphone with a solid camera and reliable performance for everyday use.",
+    "Specification": [
+      "6.3-inch display",
+      "64GB storage",
+      "Dual-lens camera",
+      "4G LTE connectivity"
+    ],
+    "availability": "In stock",
+    "rating": 4.0
+  }
+]

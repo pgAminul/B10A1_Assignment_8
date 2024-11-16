@@ -1,0 +1,42 @@
+* {
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0;
+  max-width: 1350px;
+}
+.navbarActive > li > a.active {
+  border: 2px solid greenyellow;
+}
+.btnForLoginSing > li {
+  list-style: none;
+}
+.t {
+  top: 65px;
+  animation-name: example;
+  animation-duration: 1s;
+}
+@keyframes example {
+  0% {
+    top: -10px;
+  }
+}
+
+/* .Home {
+  height: calc(100vh - 312px);
+} */
+
+.HomeActiceButton > a.active {
+  background-color: red;
+  color: white;
+}
+.categoryBtn > a.active {
+  background-color: red;
+  color: white;
+}
+.productDetails {
+  background-color: rgba(149, 56, 226, 1);
+  height: 300px;
+}
+.statics {
+  background-color: rgba(149, 56, 226, 1);
+}
